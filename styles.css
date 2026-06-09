@@ -393,7 +393,7 @@ h1 {
 
 .hero-visual {
   position: relative;
-  min-height: 680px;
+  min-height: 460px;
   display: grid;
   align-content: center;
 }

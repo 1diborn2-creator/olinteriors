@@ -486,7 +486,7 @@ const i18n = {
     heroTitle:
       "A minimalist portfolio of interior stories where light, texture, and silence work as one composition.",
     heroText:
-      "The site is built around six selected Behance projects. I arranged them in a calm editorial presentation so the visuals read soft, clean, and confident.",
+      "We design spaces that reflect your individuality and remain relevant for many years thanks to attention to detail and thoughtful decisions.",
     heroCtaPrimary: "View projects",
     heroCtaSecondary: "Contact",
     statProjectsLabel: "Projects",
@@ -568,7 +568,7 @@ const i18n = {
     heroTitle:
       "Минималистичный портфель интерьерных историй, где свет, фактура и тишина работают как единая композиция.",
     heroText:
-      "Основа сайта — шесть отобранных проектов с Behance. Я собрал их в спокойную редакционную подачу, чтобы визуалы звучали мягко, чисто и уверенно.",
+      "Мы проектируем пространства, которые отражают вашу индивидуальность и остаются актуальными на протяжении многих лет благодаря вниманию к деталям и продуманным решениям.",
     heroCtaPrimary: "Смотреть проекты",
     heroCtaSecondary: "Связаться",
     statProjectsLabel: "Проекты",
@@ -650,7 +650,7 @@ const i18n = {
     heroTitle:
       "Un portfolio minimalista de historias interiores, donde luz, textura y silencio funcionan como una sola composición.",
     heroText:
-      "La base del sitio son seis proyectos seleccionados de Behance. Los organicé en una presentación editorial tranquila para que los visuales se lean suaves, limpios y seguros.",
+      "Disenamos espacios que reflejan tu individualidad y siguen siendo actuales durante muchos anos gracias a la atencion al detalle y a decisiones bien pensadas.",
     heroCtaPrimary: "Ver proyectos",
     heroCtaSecondary: "Contactar",
     statProjectsLabel: "Proyectos",
