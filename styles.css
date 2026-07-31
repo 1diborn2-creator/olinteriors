@@ -1058,6 +1058,10 @@ h2 {
   margin-top: 12px;
 }
 
+.project-modal__module--text .is-centered {
+  text-align: center;
+}
+
 .project-modal__module--text a {
   color: var(--accent);
 }
@@ -1683,7 +1687,7 @@ h2 {
   html[lang="ru"] h1 {
     max-width: 15ch;
     font-size: clamp(1.64rem, 7.6vw, 2.2rem);
-    transform: translateX(0.18ch);
+    transform: translateX(0.34ch);
   }
 
   html[lang="ru"] .hero-text {
@@ -1867,7 +1871,7 @@ h2 {
   html[lang="ru"] h1 {
     max-width: 14.2ch;
     font-size: clamp(1.52rem, 7.2vw, 1.98rem);
-    transform: translateX(0.15ch);
+    transform: translateX(0.28ch);
   }
 
   html[lang="ru"] .hero-text {

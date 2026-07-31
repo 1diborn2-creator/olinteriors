@@ -1,5 +1,33 @@
 const projects = [
   {
+    key: "casaDelMar",
+    title: "CASA DEL MAR",
+    category: {
+      en: "Villa / Reconstruction",
+      ru: "Вилла / Реконструкция",
+      es: "Villa / Reconstrucción",
+    },
+    location: {
+      en: "Costa Dorada, Spain",
+      ru: "Коста-Дорада, Испания",
+      es: "Costa Dorada, España",
+    },
+    year: "2026",
+    chips: {
+      en: ["Seafront", "Warm minimalism", "Architecture"],
+      ru: ["У моря", "Тёплый минимализм", "Архитектура"],
+      es: ["Frente al mar", "Minimalismo cálido", "Arquitectura"],
+    },
+    toneStart: "#a89a8b",
+    toneEnd: "#eee8df",
+    wide: true,
+    copy: {
+      en: "A complete reconstruction of a two-story seafront villa for contemporary family life.",
+      ru: "Полная реконструкция двухэтажной виллы у моря для современной семейной жизни.",
+      es: "Una reconstrucción integral de una villa de dos plantas frente al mar para una familia contemporánea.",
+    },
+  },
+  {
     key: "japandi",
     title: "WARM JAPANDI",
     category: {
@@ -365,7 +393,12 @@ function sanitizeBehanceText(html) {
   if (!html) return "";
   const template = document.createElement("template");
   template.innerHTML = html;
-  template.content.querySelectorAll("[style]").forEach((node) => node.removeAttribute("style"));
+  template.content.querySelectorAll("[style]").forEach((node) => {
+    if (/text-align\s*:\s*center/i.test(node.getAttribute("style") || "")) {
+      node.classList.add("is-centered");
+    }
+    node.removeAttribute("style");
+  });
   template.content.querySelectorAll("[class]").forEach((node) => {
     const classes = node.className
       .split(/\s+/)

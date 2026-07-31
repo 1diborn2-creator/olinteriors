@@ -1,4 +1,183 @@
 window.behanceProjectDetails = {
+  "casaDelMar": {
+    "url": "https://www.behance.net/gallery/253582155/CASA-DEL-MAR-Reconstruction-Interior-Design",
+    "description": "This project represents a comprehensive reconstruction of a 400 m² two-story villa situated right on the seafront in Costa Dorada, Spain.",
+    "modules": [
+      {
+        "type": "TextModule",
+        "text": "<div style=\"text-align:center;\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">CASA DEL MAR | Reconstruction &amp; Interior Design</span></div><div style=\"text-align:center;\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\"><span style=\"font-size:20px;\" class=\"texteditor-inline-fontsize\">Tarragona, Spain 2026</span></span></div><div style=\"text-align:center;\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\"><span style=\"font-size:20px;\" class=\"texteditor-inline-fontsize\">Designed by Olga Tsyba</span></span></div>"
+      },
+      {
+        "type": "TextModule",
+        "text": "<div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">Type: Two-story Villa Reconstruction with Garage</span></span></div><div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">Location: Costa Dorada, Spain</span></span></div><div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">Area: 400 m²</span></span></div><div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">Style: Warm Minimalism</span></span></div><div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">Target Audience: Family with a Child</span></span></div>"
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/c85fbf253582155.6a6c8efb5dd38.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/3e0770253582155.6a6c8efb5e3b6.jpg"
+        ]
+      },
+      {
+        "type": "TextModule",
+        "text": "<div><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\"><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\">This project represents a comprehensive reconstruction of a 400 m² two-story villa situated right on the seafront in Costa Dorada, Spain.</span></span></div><div><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\"><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\">The primary architectural objective was to reframe the existing structure into an open, airy, and highly functional living space tailored for a modern family. Anchored by the principles of Warm Minimalism, the design balances sleek geometric lines with tactile natural materials: rich wood, expressive marble, sand-toned plaster, and soft ambient lighting.</span></span>​​​​​​​</div>"
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/de9870253582155.6a6c8efbe0181.jpeg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/1400_webp/5506be253582155.6a6c8efbe05d5.png"
+        ]
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/3dd574253582155.6a6c8efc8f487.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/1725ac253582155.6a6c8efc8eeec.jpg"
+        ]
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/b2a844253582155.6a6c8efd0404e.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/9467c7253582155.6a6c8efd0460c.jpg"
+        ]
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/8f9549253582155.6a6c8efd7cbff.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/b8bf41253582155.6a6c8efd7d3b2.jpg"
+        ]
+      },
+      {
+        "type": "TextModule",
+        "text": "<div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d6d6d6;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\"></span></span></span><br></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">The interior architecture is organized into clear private and public zones to maximize comfort for family life and entertaining guests:</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">Vertical Connectivity &amp; Infrastructure: Features a built-in elevator linking both levels and an integrated indoor garage.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">First floor:</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">Master bedroom for parents, with an en-suite bathroom and dressing room.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">A well-designed children's bedroom, adaptable to the child's height.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">Guest bedrooms with en-suite bathrooms.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">All bedrooms have access to a continuous panoramic terrace with sea views.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">Second floor:</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">Open-plan living room, dining area, and kitchen with direct access to the terrace.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">A central TV area, integrated with a bio-fireplace clad in striking natural marble and warm wood paneling.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">A tranquil private study overlooking the garden.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">Guest bathroom and utility rooms.</span></span></span></div><div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\">Direct access to the private pool and relaxation area.</span></span></span></div>"
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/c3c1cc253582155.6a6c8efe02e73.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/ff862b253582155.6a6c8efe035c9.jpg"
+        ]
+      },
+      {
+        "type": "ImageModule",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/effac8253582155.6a6c8f037abeb.jpg"
+      },
+      {
+        "type": "TextModule",
+        "text": "<div><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\"><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\">The interior showcases a sophisticated, tactile, and nature-inspired palette. <br></span></span></div><div><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\"><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\">-Warm walnut/oak wall paneling adds warmth, acoustics, and rhythmic texture.<br>-The fireplace surround and floating console, crafted from large-format marble with bold veining, serve as the primary visual anchors in the living room.</span></span></div><div><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\"><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\">- Minimalist black window frames define the architectural geometry, while delicate sculptural chandeliers add airiness to the volume.</span></span></div>"
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/b49ac6253582155.6a6c8efe813f3.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/062a2c253582155.6a6c8efe828fc.jpg"
+        ]
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/2791c1253582155.6a6c8efee7d1d.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/055257253582155.6a6c8efee7787.jpg"
+        ]
+      },
+      {
+        "type": "ImageModule",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/5a36f1253582155.6a6c8f037b1bb.jpg"
+      },
+      {
+        "type": "TextModule",
+        "text": "<div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d6d6d6;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">Designed for the family’s daughter, this bedroom is a refined continuation of the villa’s Warm Minimalism concept. Instead of overly childish motifs, the space focuses on a soothing, timeless aesthetic: a gentle palette of cream, soft blush, warm beige, and natural light oak</span></span></span><br></div>"
+      },
+      {
+        "type": "ImageModule",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/d12ea3253582155.6a6c8f037b65d.jpg"
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/ca4e19253582155.6a6c8eff69b1b.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/6462c8253582155.6a6c8eff694a6.jpg"
+        ]
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/611162253582155.6a6c8effe8a1f.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/692fdf253582155.6a6c8effe8e08.png"
+        ]
+      },
+      {
+        "type": "TextModule",
+        "text": "<div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d6d6d6;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">The primary master bedroom embodies a refined.. The key spatial feature is a central accent partition behind the bed, which subtly zones the room, seamlessly dividing the sleeping sanctuary from the private en-suite bathroom area.</span></span></span><br></div>"
+      },
+      {
+        "type": "ImageModule",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/23884d253582155.6a6c8f00616d5.jpg"
+      },
+      {
+        "type": "TextModule",
+        "text": "<div><span class=\"texteditor-inline-fontsize\" style=\"font-size:15px;\"><span class=\"texteditor-inline-color\" style=\"color:#d6d6d6;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">Located directly behind the master bedroom partition, this open en-suite bathroom serves as a seamless extension of the sleeping zone. The key element is a full-height marble accent wall, creating a cohesive design narrative with the marble fireplace downstairs.</span></span></span><br></div>"
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/40fa82253582155.6a6c8f00dcc99.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_3840_webp/dae263253582155.6a6c8f00dd216.jpg"
+        ]
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/173804253582155.6a6c8f0192ebc.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f9da61253582155.6a6c8f0192776.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/aa0dba253582155.6a6c8f019205b.jpg"
+        ]
+      },
+      {
+        "type": "ImageModule",
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/93843f253582155.6a6c8f037a836.jpg"
+      },
+      {
+        "type": "TextModule",
+        "text": "<div><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"><span style=\"color:#d6d6d6;\" class=\"texteditor-inline-color\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\"> </span></span></span></div>"
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/f7ed64253582155.6a6c8f0213feb.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/9cf28a253582155.6a6c8f0213bf9.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/0d4f11253582155.6a6c8f02137ab.jpg"
+        ]
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/6db8dd253582155.6a6c8f028a3df.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/d7e638253582155.6a6c8f028a00c.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/5516c1253582155.6a6c8f0289a24.jpg"
+        ]
+      },
+      {
+        "type": "MediaCollectionModule",
+        "images": [
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/6410dd253582155.6a6c8f02ef43e.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200_webp/4112c9253582155.6a6c8f02ef97c.jpg",
+          "https://mir-s3-cdn-cf.behance.net/project_modules/fs_webp/c1c1ad253582155.6a6c8f02eeea1.jpg"
+        ]
+      },
+      {
+        "type": "TextModule",
+        "text": "<div style=\"font-size:20px;text-align:center;\"><span class=\"texteditor-inline-fontsize\" style=\"font-size:20px;\"><span class=\"texteditor-inline-color\" style=\"color:#d6d6d6;\"><span class=\"texteditor-inline-color\" style=\"color:#d5d5d5;\">Thanks for watching!</span></span></span><br></div>"
+      },
+      {
+        "type": "TextModule",
+        "text": "<div style=\"text-align:center;\"><span style=\"color:#d5d5d5;\" class=\"texteditor-inline-color\"><span style=\"font-size:15px;\" class=\"texteditor-inline-fontsize\"> Designer Olga Tsyba <a href=\"https://www.instagram.com/olinteriors.es?igsh=MWN5eDI3ZDlqYjZzdw==\" target=\"_blank\" rel=\"nofollow\">Instagram</a></span></span></div>"
+      }
+    ]
+  },
   "esplugues": {
     "url": "https://www.behance.net/gallery/248756807/Modern-House-ESPLUGUES",
     "description": "The interior was designed for a creative couple who value individuality and the warmth of a home. The sophisticated color palette is complemented by eclectic details, creating a sense of layering. We combined clean, modern lines with bold accents and unique decorative pieces to highlight the owners' charisma.",
